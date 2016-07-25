@@ -1,0 +1,91 @@
+/*
+  ========================================
+  GRID OF ELEVEN
+  ========================================
+*/
+
+.area_11_of_11 {
+	width: 100%;
+}
+
+.area_10_of_11 {
+	width: 90.76%;
+}
+
+.area_9_of_11 {
+	width: 81.52%;
+}
+
+.area_8_of_11 {
+	width: 72.29%;
+}
+
+.area_7_of_11 {
+	width: 63.05%; 
+}
+
+.area_6_of_11 {
+	width: 53.81%; 
+}
+
+.area_5_of_11 {
+	width: 44.58%; 
+}
+
+.area_4_of_11 {
+	width: 35.34%; 
+}
+
+.area_3_of_11 {
+	width: 26.1%;
+}
+
+.area_2_of_11 {
+	width: 16.87%; 
+}
+
+.area_1_of_11 {
+	width: 7.63%; 
+}
+
+/*
+  ========================================
+  GO FULL WIDTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_11_of_11 {
+		width: 100%; 
+	}
+	.area_10_of_11 {
+		width: 100%; 
+	}
+	.area_9_of_11 {
+		width: 100%; 
+	}
+	.area_8_of_11 {
+		width: 100%; 
+	}
+	.area_7_of_11 {
+		width: 100%; 
+	}
+	.area_6_of_11 {
+		width: 100%; 
+	}
+	.area_5_of_11 {
+		width: 100%; 
+	}
+	.area_4_of_11 {
+		width: 100%; 
+	}
+	.area_3_of_11 {
+		width: 100%; 
+	}
+	.area_2_of_11 {
+		width: 100%; 
+	}
+	.area_1_of_11 {
+		width: 100%; 
+	}
+}

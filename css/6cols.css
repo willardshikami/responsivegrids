@@ -1,0 +1,56 @@
+/*
+  ========================================
+  GRID OF SIX
+  ========================================
+*/
+
+.area_6_of_6 {
+	width: 100%;
+}
+
+.area_5_of_6 {
+  	width: 83.06%;
+}
+
+.area_4_of_6 {
+  	width: 66.13%;
+}
+
+.area_3_of_6 {
+  	width: 49.2%;
+}
+
+.area_2_of_6 {
+  	width: 32.26%;
+}
+
+.area_1_of_6 {
+  	width: 15.33%;
+}
+
+/*
+  ========================================
+  GO FULL WIDTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_6_of_6 {
+		width: 100%; 
+	}
+	.area_5_of_6 {
+		width: 100%; 
+	}
+	.area_4_of_6 {
+		width: 100%; 
+	}
+	.area_3_of_6 {
+		width: 100%; 
+	}
+	.area_2_of_6 {
+		width: 100%; 
+	}
+	.area_1_of_6 {
+		width: 100%; 
+	}
+}

@@ -1,0 +1,64 @@
+/*
+  ========================================
+  GRID OF seven
+  ========================================
+*/
+
+
+.area_7_of_7 {
+	width: 100%;
+}
+
+.area_6_of_7 {
+	width: 85.48%;
+}
+
+.area_5_of_7 {
+  	width: 70.97%;
+}
+
+.area_4_of_7 {
+  	width: 56.45%;
+}
+
+.area_3_of_7 {
+  	width: 41.94%;
+}
+
+.area_2_of_7 {
+  	width: 27.42%;
+}
+
+.area_1_of_7 {
+  	width: 12.91%;
+}
+
+/*
+  ========================================
+  GO FULL LENGTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_7_of_7 {
+		width: 100%; 
+	}
+	.area_6_of_7 {
+		width: 100%; 
+	}
+	.area_5_of_7 {
+		width: 100%; 
+	}
+	.area_4_of_7 {
+		width: 100%; 
+	}
+	.area_3_of_7 {
+		width: 100%; 
+	}
+	.area_2_of_7 {
+		width: 100%; 
+	}
+	.area_1_of_7 {
+		width: 100%; 
+	}
+}

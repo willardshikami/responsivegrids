@@ -1,0 +1,49 @@
+/*
+  ========================================
+  GRID OF FIVE
+  ========================================
+*/
+	
+.area_5_of_5 {
+	width: 100%;
+}
+
+.area_4_of_5 {
+  	width: 79.68%; 
+}
+
+.area_3_of_5 {
+  	width: 59.36%; 
+}
+
+.area_2_of_5 {
+  	width: 39.04%;
+}
+
+.area_1_of_5 {
+  	width: 18.72%;
+}
+
+/*
+  ========================================
+    GO FULL WIDTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_5_of_5 {
+		width: 100%; 
+	}
+	.area_4_of_5 {
+		width: 100%; 
+	}
+	.area_3_of_5 {
+		width: 100%; 
+	}
+	.area_2_of_5 {
+		width: 100%; 
+	}
+	.area_1_of_5 {
+		width: 100%; 
+	}
+}

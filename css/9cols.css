@@ -1,0 +1,78 @@
+/*
+  ========================================
+  GRID OF NINE
+  ========================================
+*/
+
+
+.area_9_of_9 {
+	width: 100%;
+}
+
+.area_8_of_9 {
+	width: 88.71%;
+}
+
+.area_7_of_9 {
+	width: 77.42%; 
+}
+
+.area_6_of_9 {
+	width: 66.13%; 
+}
+
+.area_5_of_9 {
+	width: 54.84%; 
+}
+
+.area_4_of_9 {
+	width: 43.55%; 
+}
+
+.area_3_of_9 {
+	width: 32.26%;
+}
+
+.area_2_of_9 {
+	width: 20.97%; 
+}
+
+.area_1_of_9 {
+	width: 9.68%; 
+}
+
+/*
+  ========================================
+  GO FUL WIDTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_9_of_9 {
+		width: 100%; 
+	}
+	.area_8_of_9 {
+		width: 100%; 
+	}
+	.area_7_of_9 {
+		width: 100%; 
+	}
+	.area_6_of_9 {
+		width: 100%; 
+	}
+	.area_5_of_9 {
+		width: 100%; 
+	}
+	.area_4_of_9 {
+		width: 100%; 
+	}
+	.area_3_of_9 {
+		width: 100%; 
+	}
+	.area_2_of_9 {
+		width: 100%; 
+	}
+	.area_1_of_9 {
+		width: 100%; 
+	}
+}

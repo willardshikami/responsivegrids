@@ -1,0 +1,71 @@
+/*
+  ========================================
+  GRID OF EIGHT
+  ========================================
+*/
+
+	
+.area_8_of_8 {
+	width: 100%;
+}
+
+.area_7_of_8 {
+	width: 87.3%; 
+}
+
+.area_6_of_8 {
+	width: 74.6%; 
+}
+
+.area_5_of_8 {
+	width: 61.9%; 
+}
+
+.area_4_of_8 {
+	width: 49.2%; 
+}
+
+.area_3_of_8 {
+	width: 36.5%;
+}
+
+.area_2_of_8 {
+	width: 23.8%; 
+}
+
+.area_1_of_8 {
+	width: 11.1%; 
+}
+
+/*
+  ========================================
+  GO FULL WIDTH AT LESS THAN 480 PIXELS
+  ========================================
+*/
+
+@media only screen and (max-width: 480px) {
+	.area_8_of_8 {
+		width: 100%; 
+	}
+	.area_7_of_8 {
+		width: 100%; 
+	}
+	.area_6_of_8 {
+		width: 100%; 
+	}
+	.area_5_of_8 {
+		width: 100%; 
+	}
+	.area_4_of_8 {
+		width: 100%; 
+	}
+	.area_3_of_8 {
+		width: 100%; 
+	}
+	.area_2_of_8 {
+		width: 100%; 
+	}
+	.area_1_of_8 {
+		width: 100%; 
+	}
+}
